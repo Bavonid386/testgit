@@ -5,3 +5,4 @@ vanilla
 grapes
 strawberry
 lemon
+cranberry
