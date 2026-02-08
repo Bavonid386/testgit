@@ -5,4 +5,5 @@ vanilla
 grapes
 strawberry
 lemon
+potato
 cranberry
