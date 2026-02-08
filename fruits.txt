@@ -1,2 +1,7 @@
 orange
 apple
+pineapple
+vanilla
+grapes
+strawberry
+lemon
